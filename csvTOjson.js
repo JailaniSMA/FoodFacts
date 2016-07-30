@@ -82,6 +82,8 @@ if((NorthEurope.indexOf(entireData[countryIndex])!==-1) || (CentralEurope.indexO
   if(carbo == '')
     carbo = 0;
 
+
+
     if((NorthEurope.indexOf(entireData[countryIndex])!==-1)) {
        temp = "NorthEurope";//['NorthEurope' , 'CentralEurope' , 'SouthEurope'];
      }
